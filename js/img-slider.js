@@ -104,7 +104,7 @@ function ansDisBl7() {
     }
 /*Question-7*/
 document.getElementById('btn7').addEventListener('click', function(){
-    document.body.style.backgroundImage= "url(image/bg/8.jpg)";// I gave the address fom body itself. the address is relative to body not to JS file
+    document.body.style.backgroundImage= "url(image/bg/8.png)";// I gave the address fom body itself. the address is relative to body not to JS file
   });
 
 function quDisNo7() {
